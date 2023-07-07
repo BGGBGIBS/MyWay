@@ -17,3 +17,9 @@
 [submodule "FrontEnd/MyWayRct"]
 	path = FrontEnd/MyWayRct
 	url = https://github.com/BGGBGIBS/MyWayRct
+[submodule "BackEnd/MyWayNet"]
+	path = BackEnd/MyWayNet
+	url = https://github.com/BGGBGIBS/MyWayNet
+[submodule "BackEnd/MyWayNst"]
+	path = BackEnd/MyWayNst
+	url = https://github.com/BGGBGIBS/MyWayNst
