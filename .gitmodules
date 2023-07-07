@@ -1,0 +1,19 @@
+[submodule "BackEnd/MyWayExpress"]
+	path = BackEnd/MyWayExpress
+	url = https://github.com/BGGBGIBS/MyWayExpress
+[submodule "FrontEnd/MyWayNg"]
+	path = FrontEnd/MyWayNg
+	url = https://github.com/BGGBGIBS/MyWayNg
+
+[submodule "Analysis/MyWayTex"]
+	path = Analysis/MyWayTex
+	url = https://github.com/BGGBGIBS/MyWayTex
+[submodule "DataBase/MyWayDb"]
+	path = DataBase/MyWayDb
+	url = https://github.com/BGGBGIBS/MyWayDb
+[submodule "BackEnd/MyWayNC"]
+	path = BackEnd/MyWayNC
+	url = https://github.com/BGGBGIBS/MyWayNC
+[submodule "FrontEnd/MyWayRct"]
+	path = FrontEnd/MyWayRct
+	url = https://github.com/BGGBGIBS/MyWayRct
